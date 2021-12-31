@@ -4,7 +4,7 @@ function timer()
 {
     let current = new Date();
 
-    let timer = new Date("December 25, 2021 00:00:00");
+    let timer = new Date("December 25, 2022 00:00:00");
 
     let diff = timer - current;
 
